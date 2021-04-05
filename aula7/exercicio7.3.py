@@ -1,0 +1,10 @@
+for each in range(10, 20):
+    print('esse é o valor de n: ', each)
+    print('esse é o valor de n: ', each)
+    print('esse é o valor de n: ', each)
+    print('esse é o valor de n: ', each)
+    print('esse é o valor de n: ', each)
+    print('esse é o valor de n: ', each)
+    print('esse é o valor de n: ', each)
+    print('esse é o valor de n: ', each)
+print('Acabou')

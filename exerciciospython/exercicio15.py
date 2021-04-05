@@ -1,0 +1,8 @@
+cliente = input('Qual nome do cliente? ')
+carro = input('Qual modelo do carro?')
+km = float(input(f'Quantos km o carro {carro} do Sr.(a) {cliente} percorreu? '))
+dias = int(input(f'Por quantos dias o Sr.(a) alugou o carro? '))
+valor1 = (dias * 60.00)
+valor2 = (km * 0.15)
+total = (valor2+valor1)
+print(f'O valor que o Sr.(a){cliente} tem a pagar referente o aluguel do carro {carro} é R$ {total}')

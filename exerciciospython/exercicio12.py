@@ -1,0 +1,6 @@
+produto = input('Informe o nome do produto ')
+valor = float(input('Informe o valor do produto R$ '))
+desc = (valor * 0.05)
+valdes = (valor - desc)
+#per=float(desc)*(100/5)
+print(f'O valor do {produto} é R$ {round(valor,2)} com desconto ficou em R$ {round(valdes,2)}.')
