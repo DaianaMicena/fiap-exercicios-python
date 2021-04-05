@@ -35,5 +35,6 @@ total += quarta
 total += quinta
 total += sexta
 
+
 print(f"O dia da semana mais votado foi {dia}-feira com {maior} votos.")
 print(f"O total de votos computados foi de {total}.")
