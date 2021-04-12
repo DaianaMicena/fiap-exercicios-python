@@ -1,4 +1,4 @@
-from modulo2_FOR.exercicio55lista import check_peso
+from Exercicios_Python.exercicio55lista import check_peso
 '''
 num = int(input('Informe um numero: '))
 total = 0
